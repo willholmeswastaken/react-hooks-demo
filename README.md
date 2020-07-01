@@ -8,3 +8,5 @@ UseReducer is great for having a state mechanism for a large / growing amount of
 UseReducer is great for components that will grow over time and need maintaining. 
 
 This demo also showcases the useEffect hook which is the equivalent to the class component version of 'ComponentDidMount' and 'ComponentDidUpdate'
+
+https://willholmeswastaken.github.io/react-hooks-demo/
